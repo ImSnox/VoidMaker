@@ -1,8 +1,3 @@
---ORPLAYZ SHOWCASED THIS SCRIPT, ANYBODY WHO SHOWCASES WITHOUT PERMISSION OR CREDIT WILL BE PRESSED CHARGES (LMT.197 Licence)
---SUBSCRIBE TO ORPLAYZ: https://www.youtube.com/channel/UC1UwUVxrjM2Sb4duUoR6zfA?sub_confirmation=1
-
-
-
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Void Killz                                                                                   [NOT PUBLISHED]" ,"All")
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("[MADE BY: ImSnox)]" ,"All")
 
