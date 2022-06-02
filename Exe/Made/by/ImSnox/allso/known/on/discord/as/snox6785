@@ -1158,4 +1158,4 @@ while event:Wait() do
         end
     end
 end
-print"ORPLAYZ SCRIPT LOADED"
+print("FE - Void Killz Loaded - "..os.date())
