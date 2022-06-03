@@ -1,6 +1,6 @@
 --[[
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Void Killz                                                                                              [NOT PUBLISHED]" ,"All")
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("[MADE BY: ImSnox)]" ,"All")
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("[MODED BY: ImSnox)]" ,"All")
 ]]
 
 if "myworld reanimate again" then
